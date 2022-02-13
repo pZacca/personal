@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pZacca
+- 👀 I’m interested in maths, computer science and millenium problems (CMI)
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything that gives me experience and knowledge
+- 📫 How to reach me: hit me at pedrozaccaria@gmail.com
